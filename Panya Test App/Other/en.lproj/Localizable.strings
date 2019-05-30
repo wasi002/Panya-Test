@@ -1,0 +1,17 @@
+/* 
+  Localization.strings
+  Panya Test App
+
+  Created by Muhammad Waseem on 30/05/2019.
+  Copyright © 2019 Muhammad Waseem. All rights reserved.
+*/
+
+"OK" = "OK";
+"ERROR" = "Error";
+"SIGNIN_ERROR" = "Please eneter all data";
+"EMAIL_INVALID_ERROR" = "Your email is invalid";
+"NETWORK_ERROR" = "Something went wrong";
+"TOKEN_INVALID" = "Token is invalid";
+
+"CONSECUTIVE_ROUND_COUNT" = "You have Concecutive played :";
+"ROUNDS_LABEL" = "rounds";
